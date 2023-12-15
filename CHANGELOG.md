@@ -7,8 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-<!-- ### Added
-### Changed
+### Added
+* Added .node-version file and set required node version to v18
+<!-- ### Changed
 ### Deprecated
 ### Removed
 ### Fixed
@@ -17,8 +18,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0-alpha.1] - 2023-12-15
 
 ### Added
-* Setting up laravel.
-* Setting up tailwindcss.
+* Setting up laravel
+* Setting up tailwindcss
 * Adding CREDITS.md
 * Adding CHANGELOG.md
 * Adding LICENSE.md
