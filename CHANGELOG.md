@@ -14,11 +14,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 ### Security -->
 
-<!-- ## [1.0.0-alpha.1] - XXXX-XX-XX
+## [1.0.0-alpha.1] - 2023-12-15
 
 ### Added
-### Changed
-### Deprecated
-### Removed
-### Fixed
-### Security -->
+* Setting up laravel.
+* Setting up tailwindcss.
+* Adding CREDITS.md
+* Adding CHANGELOG.md
+* Adding LICENSE.md
