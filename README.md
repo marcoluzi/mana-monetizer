@@ -2,7 +2,7 @@
 	<h1>✨ Mana Monetizer ✨</h1>
 	<p><b>Tap into the Treasure of Your Collection.</b></p>
     <div>
-        <img alt="Static Badge" src="https://img.shields.io/badge/version-1.0.0--alpha.1-red">
+        <img alt="Static Badge" src="https://img.shields.io/badge/version-1.0.0--alpha.2-red">
         <img alt="Static Badge" src="https://img.shields.io/badge/node%20version-v18-green?logo=nodedotjs&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/php%20version-v8.2-green?logo=php&logoColor=white">
     </div>

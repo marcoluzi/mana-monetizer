@@ -11,7 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Added .node-version file and set required node version to v18
 
 ### Changed
-* Adding version shield to README.md
+* Adding version badge to README.md
+* Adding node version badge to README.md
+* Adding php version badge to README.md
 <!-- ### Deprecated
 ### Removed
 ### Fixed
