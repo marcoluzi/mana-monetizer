@@ -9,8 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 * Added .node-version file and set required node version to v18
-<!-- ### Changed
-### Deprecated
+
+### Changed
+* Adding version shield to README.md
+<!-- ### Deprecated
 ### Removed
 ### Fixed
 ### Security -->
