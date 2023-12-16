@@ -8,22 +8,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-* Added .node-version file and set required node version to v18
+
+-   Added .node-version file and set required node version to v18
+-   Added TALL Stack
+-   Added Blade UI Kit components
 
 ### Changed
-* Adding version badge to README.md
-* Adding node version badge to README.md
-* Adding php version badge to README.md
+
+-   Adding version badge to README.md
+-   Adding node version badge to README.md
+-   Adding php version badge to README.md
 <!-- ### Deprecated
+
 ### Removed
+
 ### Fixed
+
 ### Security -->
 
 ## [1.0.0-alpha.1] - 2023-12-15
 
 ### Added
-* Setting up laravel
-* Setting up tailwindcss
-* Adding CREDITS.md
-* Adding CHANGELOG.md
-* Adding LICENSE.md
+
+-   Setting up laravel
+-   Setting up tailwindcss
+-   Adding CREDITS.md
+-   Adding CHANGELOG.md
+-   Adding LICENSE.md
