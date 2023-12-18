@@ -1,6 +1,6 @@
 <x-html
 	:title="isset($title) ? $title . ' | ' . config('app.name') : ''"
-	class="bg-white h-screen antialiased leading-none"
+	class="text-white bg-oxford-blue bg-gradient-to-b from-oxford-blue to-rich-black h-screen antialiased leading-none"
 >
 	<x-slot name="head">
 		<x-social-meta

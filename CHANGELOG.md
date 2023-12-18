@@ -12,6 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -   Added .node-version file and set required node version to v18
 -   Added TALL Stack
 -   Added Blade UI Kit components
+-   Fluid Font Size logic
+-   Container component
+-   Simple home page setup
 
 ### Changed
 
