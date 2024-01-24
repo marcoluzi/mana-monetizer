@@ -1,4 +1,5 @@
 <div>
+    @if($step == 1)
 	<form wire:submit="submit">
 		<label for="csv-file" class="block text-sm font-medium leading-6">CSV File</label>
 		<div class="mt-2 flex justify-center rounded-lg border border-dashed border-white/25 px-6 py-10">
@@ -20,4 +21,24 @@
 			<button type="submit" class="rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500 mt-8">Submit</button>
 		</div>
 	</form>
+    @endif
+
+    @if($step == 2)
+        <div>
+            <h3>Map CSV Columns</h3>
+            @foreach($columns as $column)
+                <div>
+                    <label>{{ $column }}</label>
+                    <select wire:model="mappings.{{ $column }}">
+                        <option value="">Select a mapping</option>
+                        <!-- Populate with your specific set of keys -->
+                        <option value="key1">Key 1</option>
+                        <option value="key2">Key 2</option>
+                        <!-- etc. -->
+                    </select>
+                </div>
+            @endforeach
+            <button wire:click="submitMapping">Submit Mapping</button>
+        </div>
+    @endif
 </div>
